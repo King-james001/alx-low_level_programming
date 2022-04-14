@@ -1,2 +1,2 @@
 0x03. C - Debugging
-C - Programming Language
+My C - Programming Journey

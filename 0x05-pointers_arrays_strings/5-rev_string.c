@@ -42,4 +42,3 @@ start_c++;
 end_c--;
 }
 }
-© 2022 GitHub, Inc.

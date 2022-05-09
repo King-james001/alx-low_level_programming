@@ -1,0 +1,64 @@
+!<arch>
+/               
+Ö                         
+     :  Ö  
+:    Ú  0           0     0     0       246       `ž  $b  *7  0  6f  =
+toi.o/        0           0    0     644     1576      `ELF!<arch>
+/               0           0     0     0       246       `
+     :  Ö  
+:    Ú  ž  $b  *6  0  6f  =
+!<arch>
+trlen.o/      0           0     0     644     1408      `ELFtrcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .         trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment . > trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .                               2           0     0     0       246       `
+     :  Ö  
+:    Ú  ž  $b  *6  0  6f  =
+         
+!<arch_memcpy                  
+/               0           1     0     0       246       `
+/      0           0     1     644     1trncpy.o/      0           0     0     644     1488      `ELFtrlen.o/      0           0     0     644     1408      `ELFtrcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .         trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment . > trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .                trlen.o/      0           0     0     644     1408      `ELFtrcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .         trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment . > trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .                         trlen.o/      0           0     0     644     1408      `ELFtrcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .         trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment . > trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .                 > trlen.o/      0           0     0     644     1408      `ELFtrcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .         trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment . > trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .                                   Ð          @     @  ó24      `ELF_memcpy                  _memcpy                           _memcpy                   > _memcpy                                               @     @  ó
+     :  
+
+:    Ú  ž  $b  *8  0  7f  =
+trcat.o/      1           0     0     644     1504      `ELF_puts _GLOBAL_OFFSET_TABLE_ _putchar   /            üÿÿÿÿÿÿÿQ            üÿÿÿÿÿÿÿ      _puts _GLOBAL_OFFSET_TABLE_ _putchar   /            üÿÿÿÿÿÿÿQ            üÿÿÿÿÿÿÿ               _puts _GLOBAL_OFFSET_TABLE_ _putchar   /            üÿÿÿÿÿÿÿQ            üÿÿÿÿÿÿÿ       > _puts _GLOBAL_OFFSET_TABLE_ _putchar   /            üÿÿÿÿÿÿÿQ            üÿÿÿÿÿÿÿ       !_memset                             .symtab .strtab .shstrtab .text .data .bss .comment .arch>
+/               0           0     1     0       246       `
+     :  Ö  
+:    Ú  ž  $b  *7  0  8f  =
+s_puts _GLOBAL_OFFSET_TABLE_ _putchartrcmp.c _strcmp                              .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                                    /            üÿÿÿÿÿÿÿQ            üÿÿÿÿÿÿÿ      alpha.o/     3           0     0     644     1448      `ELF
+Ö           4              
+trstr.o/      0           0     0     644     1488      `ELFtrspn.c _strspn                             .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                                  trspn.c _strspn                             .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                                           trspn.c _strspn                             .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                                   > trspn.c _strspn                             .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                                  rspn.o/      0           0     0     644     1552      `
+r.c _putchar _GLOBAL_OFFSET_TABLE_ write      Ö                                  r.c _putchar _GLOBAL_OFFSET_TABLE_ write                     2   r.c _putchar _GLOBAL_OFFSET_TABLE_ write         0               i       +               r.c _putchar _GLOBAL_OFFSET_TABLE_ write             r.c _putchar _GLOBAL_OFFSET_TABLE_ write             :   r.c _putchar _GLOBAL_OFFSET_TABLE_ write                         ”                       r.c _putchar _GLOBAL_OFFSET_TABLE_ write                     J                    ˜                                     b   r.c _putchar _GLOBAL_OFFSET_TABLE_ write                        ¸       8                             ]      @               `                                
+Ö                          > 
+Ö                                            ¨          @     @   salpha.o/     0           0     0     644     1448      `ELF
+Ö                         
+Ö                                  
+Ö                          > 
+Ö                                            ¨          @     @  óxsalpha.o/     0           0     0     644     1448      `ELF
+Ö                         
+
+
+trspn.c _strspn                             .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                                  Ö                          >
+
+trcpy.c _strcpy                             .symtab .strtab .shstrtab .text .data .bss .comment .rcpy.o/      0t           0     0     644     1464      `ELFtrcmp.c _strcmp                              .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                                  trcmp.c _strcmp                              .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                                           trcmp.c _strcmp                              .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                                   > trcmp.c _strcmp                              .symtab .strtab .shstrtab .text .data .bss .comment .note.GNU-stack .note.gnu.property .rela.eh_frame                                                                                     ¸          @     @  eh_frame                                                                  
+Ö                                            ¨          @     @  ó
+supper.o/     0           0     0     644     1416      `ELF
+
+         
+ > 
+           /      1          1     0     644     1409      `ELF.e_frame                                                                 .eh_frame                                                                           .eh_frame                                                                   > .eh_frame                                                                                     €          @     @  
+/      0           0     0     644     1432      `ELFsupper.o/     0           0     0     644     1416      `ELF
+
+         
+ > 
+           supper.o/     1           0     0     644     1416      `ELF
+
+        
+
+ > 
+                   supper.o/     0           0     0     644     1416      `ELF
+
+         
+ > 
+            > supper.o/     0           0     0     644     1416      `ELF
+
+         
+ > 
+			C: (Ubuntu 9.3.0-17ubutu1~20.04) 9.3.0           04      GNU   Ã

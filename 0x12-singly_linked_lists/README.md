@@ -1,3 +1,1 @@
-0x12. C - Singly linked lists
-Description about Singly Linked Lists
-C - Programming Language...
+0x12-singly_linked_lists tasks
